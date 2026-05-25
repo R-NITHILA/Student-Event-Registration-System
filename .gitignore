@@ -1,0 +1,16 @@
+# Backend
+**/target/
+**/*.jar
+**/*.class
+**/.idea/
+**/*.iml
+
+# Frontend
+**/node_modules/
+**/dist/
+**/.env
+**/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
